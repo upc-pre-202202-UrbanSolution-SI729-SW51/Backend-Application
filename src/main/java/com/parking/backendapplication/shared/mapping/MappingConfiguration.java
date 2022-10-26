@@ -10,7 +10,12 @@ public class MappingConfiguration {
 
     @Bean
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     public EnhancedModelMapper modelMapper(){
+=======
+    public EnhancedModelMapper ModelMapper(){
+
+>>>>>>> Stashed changes
         return new EnhancedModelMapper();
 =======
     public ParkingLotMapper parkingLotMapper(){

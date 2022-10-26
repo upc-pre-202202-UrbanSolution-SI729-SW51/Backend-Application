@@ -1,5 +1,7 @@
 package com.parking.backendapplication.shared.mapping;
 
+import com.parking.backendapplication.booking.domain.model.entity.ParkingLot;
+import com.parking.backendapplication.booking.resource.ParkingLotResource;
 import org.modelmapper.ModelMapper;
 
 import java.util.List;

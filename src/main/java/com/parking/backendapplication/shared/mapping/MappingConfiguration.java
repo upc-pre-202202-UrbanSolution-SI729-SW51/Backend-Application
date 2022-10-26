@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 public class MappingConfiguration {
 
     @Bean
-    public EnhancedModelMapper modelMapper(){
+    public EnhancedModelMapper ModelMapper(){
         return new EnhancedModelMapper();
     }
 }

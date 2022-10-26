@@ -28,14 +28,9 @@ public class ParkingLot extends AuditModel{
     @Column(unique = true)
     private String address;
 
-    @NotNull
-    @NotBlank
-    @Column(unique = true)
+
     private Number spaces_free;
 
-    @NotNull
-    @NotBlank
-    @Column(unique = true)
     private Number spaces_available;
 
     @NotNull

@@ -1,4 +1,5 @@
 package com.parking.backendapplication.booking.service;
+package com.acme.learningcenter.analytics.service;
 
 import com.parking.backendapplication.booking.domain.model.entity.Driver;
 import com.parking.backendapplication.booking.domain.persistence.DriverRepository;
